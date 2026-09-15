@@ -1,2 +1,5 @@
-# Demand-Forecusting
-Machine Learning project for demand forecasting using XGBoost. The project includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and hyperparameter tuning. A Streamlit web app allows users to enter product details and get real-time demand predictions.
+📊 **Machine Learning Project – Demand Forecasting**
+
+This project includes **data preprocessing 🧹, exploratory data analysis (EDA) 📈, feature engineering ⚙️, model training 🤖, model evaluation 📊, and hyperparameter tuning 🎯**.
+
+A **Streamlit web application 🌐** allows users to enter product details and receive **real-time demand predictions 🔮**, making the solution practical for demand planning and business decision-making.
